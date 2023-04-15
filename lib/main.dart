@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-
-import 'challenge_screen.dart';
+import 'package:webtoon_clone/task_timer.dart';
 
 void main() {
   runApp(const MyApp());
@@ -15,7 +14,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         useMaterial3: true,
       ),
-      home: const ChallengeScreen(),
+      home: const TaskTimer(),
     );
   }
 }
