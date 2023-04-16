@@ -1,0 +1,2283 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/22z44LPkMyf5nyyXvv8qQLsbom.jpg",
+        "belongs_to_collection": null,
+        "budget": 20000000,
+        "genres": [
+            {
+                "id": 53,
+                "name": "Thriller"
+            },
+            {
+                "id": 9648,
+                "name": "Mystery"
+            },
+            {
+                "id": 27,
+                "name": "Horror"
+            }
+        ],
+        "homepage": "https://www.knockatthecabin.com",
+        "id": 631842,
+        "imdb_id": "tt15679400",
+        "original_language": "en",
+        "original_title": "Knock at the Cabin",
+        "overview": "While vacationing at a remote cabin, a young girl and her two fathers are taken hostage by four armed strangers who demand that the family make an unthinkable choice to avert the apocalypse. With limited access to the outside world, the family must decide what they believe before all is lost.",
+        "popularity": 685.728,
+        "poster_path": "/dm06L9pxDOL9jNSK4Cb6y139rrG.jpg",
+        "production_companies": [
+            {
+                "id": 12236,
+                "logo_path": "/uV6QBPdn3MjQzAFdgEel6od7geg.png",
+                "name": "Blinding Edge Pictures",
+                "origin_country": "US"
+            },
+            {
+                "id": 33,
+                "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+                "name": "Universal Pictures",
+                "origin_country": "US"
+            },
+            {
+                "id": 7493,
+                "logo_path": "/452FO4LcI6lA6bfgl6w1kQYRBlr.png",
+                "name": "FilmNation Entertainment",
+                "origin_country": "US"
+            },
+            {
+                "id": 152785,
+                "logo_path": null,
+                "name": "Wishmore",
+                "origin_country": "US"
+            },
+            {
+                "id": 10338,
+                "logo_path": "/el2ap6lvjcEDdbyJoB3oKiYgXu9.png",
+                "name": "Perfect World Pictures",
+                "origin_country": "CN"
+            },
+            {
+                "id": 1778,
+                "logo_path": "/b5rT6VbYza3LyfltCmz1OcqzWJM.png",
+                "name": "dentsu",
+                "origin_country": "JP"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CN",
+                "name": "China"
+            },
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2023-02-01",
+        "revenue": 52000000,
+        "runtime": 100,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Save your family or save humanity. Make the choice.",
+        "title": "Knock at the Cabin",
+        "video": false,
+        "vote_average": 6.438,
+        "vote_count": 1257
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dlrWhn0G3AtxYUx2D9P2bmzcsvF.jpg",
+        "belongs_to_collection": {
+            "id": 1071588,
+            "name": "M3GAN Collection",
+            "poster_path": "/fS57wFKda3h5dtWS3sc9JffE05R.jpg",
+            "backdrop_path": "/uXEJwb8y67vFLaJb4wvHbSH6PjT.jpg"
+        },
+        "budget": 12000000,
+        "genres": [
+            {
+                "id": 878,
+                "name": "Science Fiction"
+            },
+            {
+                "id": 27,
+                "name": "Horror"
+            },
+            {
+                "id": 35,
+                "name": "Comedy"
+            }
+        ],
+        "homepage": "https://www.m3ganmovie.com",
+        "id": 536554,
+        "imdb_id": "tt8760708",
+        "original_language": "en",
+        "original_title": "M3GAN",
+        "overview": "A brilliant toy company roboticist uses artificial intelligence to develop M3GAN, a life-like doll programmed to emotionally bond with her newly orphaned niece. But when the doll's programming works too well, she becomes overprotective of her new friend with terrifying results.",
+        "popularity": 684.261,
+        "poster_path": "/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg",
+        "production_companies": [
+            {
+                "id": 76907,
+                "logo_path": "/ygMQtjsKX7BZkCQhQZY82lgnCUO.png",
+                "name": "Atomic Monster",
+                "origin_country": "US"
+            },
+            {
+                "id": 3172,
+                "logo_path": "/kDedjRZwO8uyFhuHamomOhN6fzG.png",
+                "name": "Blumhouse Productions",
+                "origin_country": "US"
+            },
+            {
+                "id": 89115,
+                "logo_path": "/zQwTHJVIruUlGsa7zIdfXuSm9GG.png",
+                "name": "Divide / Conquer",
+                "origin_country": "US"
+            },
+            {
+                "id": 33,
+                "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+                "name": "Universal Pictures",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2022-12-28",
+        "revenue": 167643991,
+        "runtime": 102,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Friendship has evolved.",
+        "title": "M3GAN",
+        "video": false,
+        "vote_average": 7.386,
+        "vote_count": 2352
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qai0MnVwPYCwOPSAnHIHyzBVqnd.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 16,
+                "name": "Animation"
+            },
+            {
+                "id": 12,
+                "name": "Adventure"
+            },
+            {
+                "id": 10751,
+                "name": "Family"
+            },
+            {
+                "id": 14,
+                "name": "Fantasy"
+            }
+        ],
+        "homepage": "",
+        "id": 776835,
+        "imdb_id": "tt2560092",
+        "original_language": "en",
+        "original_title": "The Magician's Elephant",
+        "overview": "Peter is searching for his long-lost sister when he crosses paths with a fortune teller in the market square. His one one question is: is his sister still alive? The answer, that he must find a mysterious elephant and the magician who will conjure it, sets Peter off on a journey to complete three seemingly impossible tasks that will change the face of his town forever.",
+        "popularity": 588.047,
+        "poster_path": "/cAoAgzOCxSytYBqqCQulhXNR3LB.jpg",
+        "production_companies": [
+            {
+                "id": 8089,
+                "logo_path": "/kEUAzsG2hZcCV7rmSCozgLhGWaa.png",
+                "name": "Animal Logic",
+                "origin_country": "AU"
+            },
+            {
+                "id": 171251,
+                "logo_path": "/AqUAfMC270bGGK09Nh3mycwT1hY.png",
+                "name": "Netflix Animation",
+                "origin_country": "US"
+            },
+            {
+                "id": 79,
+                "logo_path": "/tpFpsqbleCzEE2p5EgvUq6ozfCA.png",
+                "name": "Village Roadshow Pictures",
+                "origin_country": "US"
+            },
+            {
+                "id": 193620,
+                "logo_path": null,
+                "name": "Pistor Productions",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "AU",
+                "name": "Australia"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2023-03-10",
+        "revenue": 0,
+        "runtime": 99,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Dare to believe.",
+        "title": "The Magician's Elephant",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 95
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sRfX2XPjyL7nRKVRKXVG6D0bVQI.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 27,
+                "name": "Horror"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            }
+        ],
+        "homepage": "",
+        "id": 884184,
+        "imdb_id": "tt14993352",
+        "original_language": "en",
+        "original_title": "Consecration",
+        "overview": "After the alleged suicide of her priest brother, Grace travels to the remote Scottish convent where he fell to his death. Distrusting the Church's account, she uncovers murder, sacrilege and a disturbing truth about herself.",
+        "popularity": 541.097,
+        "poster_path": "/yQTRmPzKAdLodknnPVtImm6FWPZ.jpg",
+        "production_companies": [
+            {
+                "id": 110799,
+                "logo_path": "/eHjtiQJjrGQTooEsBmPSYoUnNB.png",
+                "name": "AGC Studios",
+                "origin_country": "US"
+            },
+            {
+                "id": 72969,
+                "logo_path": null,
+                "name": "Bigscope Films",
+                "origin_country": "GB"
+            },
+            {
+                "id": 162531,
+                "logo_path": "/keM5jjHkTOMh3X65GbbtFaNWHqs.png",
+                "name": "Moonriver Content",
+                "origin_country": "GB"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2023-02-09",
+        "revenue": 0,
+        "runtime": 90,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Blessed be the curse.",
+        "title": "Consecration",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 29
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rvFeNpYimvtEEZgkhiBfXJA5oTf.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 27,
+                "name": "Horror"
+            }
+        ],
+        "homepage": "",
+        "id": 1026563,
+        "imdb_id": "tt21199996",
+        "original_language": "es",
+        "original_title": "13 exorcismos",
+        "overview": "After participating in a séance, young Laura begins to behave strangely. Alarmed, her parents ask Father Olmedo, one of the few exorcists authorized by the Vatican to intervene in cases of demonic possession, for help.",
+        "popularity": 530.933,
+        "poster_path": "/aNlCqSfAV4BhHqaxmXdcaYM4iTF.jpg",
+        "production_companies": [
+            {
+                "id": 126568,
+                "logo_path": null,
+                "name": "Mr. Fields and Friends",
+                "origin_country": "ES"
+            },
+            {
+                "id": 29566,
+                "logo_path": "/wHbtRtUnXGNzX0riQIpq1fcgueq.png",
+                "name": "Atresmedia",
+                "origin_country": "ES"
+            },
+            {
+                "id": 27628,
+                "logo_path": "/8rluD2KhZHZbEOiAKW5qbBxyD0R.png",
+                "name": "Bambú Producciones",
+                "origin_country": "ES"
+            },
+            {
+                "id": 67412,
+                "logo_path": "/vgVqq5hunVs8GN5Je9d9rG7Q2NU.png",
+                "name": "Movistar+",
+                "origin_country": "ES"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "ES",
+                "name": "Spain"
+            }
+        ],
+        "release_date": "2022-11-04",
+        "revenue": 1891519,
+        "runtime": 100,
+        "spoken_languages": [
+            {
+                "english_name": "Spanish",
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "13 Exorcisms",
+        "video": false,
+        "vote_average": 5.538,
+        "vote_count": 52
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zGoZB4CboMzY1z4G3nU6BWnMDB2.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 28,
+                "name": "Action"
+            },
+            {
+                "id": 35,
+                "name": "Comedy"
+            },
+            {
+                "id": 10749,
+                "name": "Romance"
+            }
+        ],
+        "homepage": "https://www.amazon.com/dp/B0B7729B9F",
+        "id": 758009,
+        "imdb_id": "tt9686790",
+        "original_language": "en",
+        "original_title": "Shotgun Wedding",
+        "overview": "Darcy and Tom gather their families for the ultimate destination wedding but when the entire party is taken hostage, “’Til Death Do Us Part” takes on a whole new meaning in this hilarious, adrenaline-fueled adventure as Darcy and Tom must save their loved ones—if they don’t kill each other first.",
+        "popularity": 489.431,
+        "poster_path": "/t79ozwWnwekO0ADIzsFP1E5SkvR.jpg",
+        "production_companies": [
+            {
+                "id": 1632,
+                "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+                "name": "Lionsgate",
+                "origin_country": "US"
+            },
+            {
+                "id": 10227,
+                "logo_path": "/3YfRy3DBl4abcqkzGx4RVNz12yl.png",
+                "name": "Mandeville Films",
+                "origin_country": "US"
+            },
+            {
+                "id": 1620,
+                "logo_path": null,
+                "name": "Nuyorican Productions",
+                "origin_country": "US"
+            },
+            {
+                "id": 104228,
+                "logo_path": "/hx0C1XcSxGgat8N62GpxoJGTkCk.png",
+                "name": "Maximum Effort",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            },
+            {
+                "iso_3166_1": "DO",
+                "name": "Dominican Republic"
+            }
+        ],
+        "release_date": "2022-12-28",
+        "revenue": 4495365,
+        "runtime": 101,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Save the day.",
+        "title": "Shotgun Wedding",
+        "video": false,
+        "vote_average": 6.325,
+        "vote_count": 750
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vppGIY6C0OJiWyc8z2oxTrlp3vd.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 27,
+                "name": "Horror"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            }
+        ],
+        "homepage": "https://www.evildeadrisemovie.com",
+        "id": 713704,
+        "imdb_id": "tt13345606",
+        "original_language": "en",
+        "original_title": "Evil Dead Rise",
+        "overview": "Two sisters find an ancient book that gives birth to bloodthirsty demons that run amok in a Los Angeles apartment building and thrusts them into a primal battle for survival as they face the most nightmarish version of family imaginable.",
+        "popularity": 464.626,
+        "poster_path": "/5ik4ATKmNtmJU6AYD0bLm56BCVM.jpg",
+        "production_companies": [
+            {
+                "id": 12,
+                "logo_path": "/5ThIuO93vsk47oexKTSdfKEr7EC.png",
+                "name": "New Line Cinema",
+                "origin_country": "US"
+            },
+            {
+                "id": 768,
+                "logo_path": null,
+                "name": "Ghost House Pictures",
+                "origin_country": "US"
+            },
+            {
+                "id": 467,
+                "logo_path": null,
+                "name": "Renaissance Pictures",
+                "origin_country": "US"
+            },
+            {
+                "id": 7893,
+                "logo_path": null,
+                "name": "Pacific Renaissance Pictures",
+                "origin_country": "NZ"
+            },
+            {
+                "id": 129815,
+                "logo_path": "/qbCmnVTQEuFqrVkbxn3i9P7Jrcw.png",
+                "name": "Wild Atlantic Pictures",
+                "origin_country": "IE"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IE",
+                "name": "Ireland"
+            },
+            {
+                "iso_3166_1": "NZ",
+                "name": "New Zealand"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2023-04-12",
+        "revenue": 0,
+        "runtime": 96,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Mommy loves you to death.",
+        "title": "Evil Dead Rise",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uNK5dHo6HJpwk1BPcDHHyvX7ZLz.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 28,
+                "name": "Action"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            }
+        ],
+        "homepage": "",
+        "id": 983768,
+        "imdb_id": "tt11696342",
+        "original_language": "en",
+        "original_title": "Black Warrant",
+        "overview": "A semi-retired special ops assassin and a DEA agent cross paths on separate missions to stop a cyber terrorist organization that has built a dangerous machine threatening to attack the power grid and bring catastrophe to the world.",
+        "popularity": 429.682,
+        "poster_path": "/A7vFFZHbDyxfjuYKzJwruTnwwjT.jpg",
+        "production_companies": [
+            {
+                "id": 35625,
+                "logo_path": null,
+                "name": "Premiere Entertainment Group",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2023-01-09",
+        "revenue": 0,
+        "runtime": 94,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Divided by a mission. United by blood.",
+        "title": "Black Warrant",
+        "video": false,
+        "vote_average": 5.375,
+        "vote_count": 16
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg",
+        "belongs_to_collection": null,
+        "budget": 100000000,
+        "genres": [
+            {
+                "id": 16,
+                "name": "Animation"
+            },
+            {
+                "id": 12,
+                "name": "Adventure"
+            },
+            {
+                "id": 10751,
+                "name": "Family"
+            },
+            {
+                "id": 14,
+                "name": "Fantasy"
+            },
+            {
+                "id": 35,
+                "name": "Comedy"
+            }
+        ],
+        "homepage": "https://www.thesupermariobros.movie",
+        "id": 502356,
+        "imdb_id": "tt6718170",
+        "original_language": "en",
+        "original_title": "The Super Mario Bros. Movie",
+        "overview": "While working underground to fix a water main, Brooklyn plumbers—and brothers—Mario and Luigi are transported down a mysterious pipe and wander into a magical new world. But when the brothers are separated, Mario embarks on an epic quest to find Luigi.",
+        "popularity": 9032.947,
+        "poster_path": "/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
+        "production_companies": [
+            {
+                "id": 33,
+                "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+                "name": "Universal Pictures",
+                "origin_country": "US"
+            },
+            {
+                "id": 6704,
+                "logo_path": "/fOG2oY4m1YuYTQh4bMqqZkmgOAI.png",
+                "name": "Illumination",
+                "origin_country": "US"
+            },
+            {
+                "id": 12288,
+                "logo_path": "/e4dQAqZD374H5EuM0W1ljEBWTKy.png",
+                "name": "Nintendo",
+                "origin_country": "JP"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2023-04-05",
+        "revenue": 437000000,
+        "runtime": 92,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "The Super Mario Bros. Movie",
+        "video": false,
+        "vote_average": 7.55,
+        "vote_count": 797
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5Y5pz0NX7SZS9036I733F7uNcwK.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 27,
+                "name": "Horror"
+            },
+            {
+                "id": 9648,
+                "name": "Mystery"
+            }
+        ],
+        "homepage": "https://www.thepopes-exorcist.movie",
+        "id": 758323,
+        "imdb_id": "tt13375076",
+        "original_language": "en",
+        "original_title": "The Pope's Exorcist",
+        "overview": "Father Gabriele Amorth, Chief Exorcist of the Vatican, investigates a young boy's terrifying possession and ends up uncovering a centuries-old conspiracy the Vatican has desperately tried to keep hidden.",
+        "popularity": 1656.818,
+        "poster_path": "/9JBEPLTPSm0d1mbEcLxULjJq9Eh.jpg",
+        "production_companies": [
+            {
+                "id": 3287,
+                "logo_path": "/bz6GbCQQXGNE56LTW9dwgksW0Iw.png",
+                "name": "Screen Gems",
+                "origin_country": "US"
+            },
+            {
+                "id": 84792,
+                "logo_path": "/7Rfr3Zu6QnHpXW2VdSEzUminAQd.png",
+                "name": "2.0 Entertainment",
+                "origin_country": "US"
+            },
+            {
+                "id": 177894,
+                "logo_path": null,
+                "name": "Jesus & Mary",
+                "origin_country": ""
+            },
+            {
+                "id": 177895,
+                "logo_path": null,
+                "name": "Worldwide Katz",
+                "origin_country": ""
+            },
+            {
+                "id": 177896,
+                "logo_path": null,
+                "name": "Loyola Productions",
+                "origin_country": ""
+            },
+            {
+                "id": 194987,
+                "logo_path": null,
+                "name": "FFILME.RO",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2023-04-05",
+        "revenue": 0,
+        "runtime": 104,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "english_name": "Italian",
+                "iso_639_1": "it",
+                "name": "Italiano"
+            },
+            {
+                "english_name": "Latin",
+                "iso_639_1": "la",
+                "name": "Latin"
+            },
+            {
+                "english_name": "Spanish",
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Inspired by the actual files of Father Gabriele Amorth, Chief Exorcist of the Vatican.",
+        "title": "The Pope's Exorcist",
+        "video": false,
+        "vote_average": 6.931,
+        "vote_count": 58
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/a2tys4sD7xzVaogPntGsT1ypVoT.jpg",
+        "belongs_to_collection": null,
+        "budget": 35000000,
+        "genres": [
+            {
+                "id": 53,
+                "name": "Thriller"
+            },
+            {
+                "id": 35,
+                "name": "Comedy"
+            },
+            {
+                "id": 80,
+                "name": "Crime"
+            }
+        ],
+        "homepage": "https://www.cocainebear.movie/",
+        "id": 804150,
+        "imdb_id": "tt14209916",
+        "original_language": "en",
+        "original_title": "Cocaine Bear",
+        "overview": "Inspired by a true story, an oddball group of cops, criminals, tourists and teens converge in a Georgia forest where a 500-pound black bear goes on a murderous rampage after unintentionally ingesting cocaine.",
+        "popularity": 1531.049,
+        "poster_path": "/gOnmaxHo0412UVr1QM5Nekv1xPi.jpg",
+        "production_companies": [
+            {
+                "id": 33,
+                "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+                "name": "Universal Pictures",
+                "origin_country": "US"
+            },
+            {
+                "id": 12365,
+                "logo_path": "/nwjOaV5QmJ7cbXOBRG4wf8AVeUx.png",
+                "name": "Brownstone Productions",
+                "origin_country": "US"
+            },
+            {
+                "id": 77973,
+                "logo_path": null,
+                "name": "Lord Miller Productions",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2023-02-22",
+        "revenue": 80000000,
+        "runtime": 96,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Get in line.",
+        "title": "Cocaine Bear",
+        "video": false,
+        "vote_average": 6.489,
+        "vote_count": 760
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vppGIY6C0OJiWyc8z2oxTrlp3vd.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 27,
+                "name": "Horror"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            }
+        ],
+        "homepage": "https://www.evildeadrisemovie.com",
+        "id": 713704,
+        "imdb_id": "tt13345606",
+        "original_language": "en",
+        "original_title": "Evil Dead Rise",
+        "overview": "Two sisters find an ancient book that gives birth to bloodthirsty demons that run amok in a Los Angeles apartment building and thrusts them into a primal battle for survival as they face the most nightmarish version of family imaginable.",
+        "popularity": 464.626,
+        "poster_path": "/5ik4ATKmNtmJU6AYD0bLm56BCVM.jpg",
+        "production_companies": [
+            {
+                "id": 12,
+                "logo_path": "/5ThIuO93vsk47oexKTSdfKEr7EC.png",
+                "name": "New Line Cinema",
+                "origin_country": "US"
+            },
+            {
+                "id": 768,
+                "logo_path": null,
+                "name": "Ghost House Pictures",
+                "origin_country": "US"
+            },
+            {
+                "id": 467,
+                "logo_path": null,
+                "name": "Renaissance Pictures",
+                "origin_country": "US"
+            },
+            {
+                "id": 7893,
+                "logo_path": null,
+                "name": "Pacific Renaissance Pictures",
+                "origin_country": "NZ"
+            },
+            {
+                "id": 129815,
+                "logo_path": "/qbCmnVTQEuFqrVkbxn3i9P7Jrcw.png",
+                "name": "Wild Atlantic Pictures",
+                "origin_country": "IE"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IE",
+                "name": "Ireland"
+            },
+            {
+                "iso_3166_1": "NZ",
+                "name": "New Zealand"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2023-04-12",
+        "revenue": 0,
+        "runtime": 96,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Mommy loves you to death.",
+        "title": "Evil Dead Rise",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/r7Dfg9aRZ78gJsmDlCirIIlNH3d.jpg",
+        "belongs_to_collection": null,
+        "budget": 3000000,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "https://a24films.com/films/the-whale",
+        "id": 785084,
+        "imdb_id": "tt13833688",
+        "original_language": "en",
+        "original_title": "The Whale",
+        "overview": "A reclusive English teacher suffering from severe obesity attempts to reconnect with his estranged teenage daughter for one last chance at redemption.",
+        "popularity": 345.029,
+        "poster_path": "/jQ0gylJMxWSL490sy0RrPj1Lj7e.jpg",
+        "production_companies": [
+            {
+                "id": 41077,
+                "logo_path": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
+                "name": "A24",
+                "origin_country": "US"
+            },
+            {
+                "id": 7503,
+                "logo_path": "/3K8wbNkTn7O4wX89ucnp1ZYR1XF.png",
+                "name": "Protozoa Pictures",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2022-12-09",
+        "revenue": 36752010,
+        "runtime": 116,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "The Whale",
+        "video": false,
+        "vote_average": 8.062,
+        "vote_count": 1974
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fh7aM10THQzivGU7kAkgKrgzot4.jpg",
+        "belongs_to_collection": null,
+        "budget": 151000000,
+        "genres": [
+            {
+                "id": 12,
+                "name": "Adventure"
+            },
+            {
+                "id": 14,
+                "name": "Fantasy"
+            },
+            {
+                "id": 35,
+                "name": "Comedy"
+            }
+        ],
+        "homepage": "https://www.dungeonsanddragons.movie",
+        "id": 493529,
+        "imdb_id": "tt2906216",
+        "original_language": "en",
+        "original_title": "Dungeons & Dragons: Honor Among Thieves",
+        "overview": "A charming thief and a band of unlikely adventurers undertake an epic heist to retrieve a lost relic, but things go dangerously awry when they run afoul of the wrong people.",
+        "popularity": 338.155,
+        "poster_path": "/A7AoNT06aRAc4SV89Dwxj3EYAgC.jpg",
+        "production_companies": [
+            {
+                "id": 8147,
+                "logo_path": "/q6HOAdSNgCbeOqwoMVRc6REgbXF.png",
+                "name": "Entertainment One",
+                "origin_country": "CA"
+            },
+            {
+                "id": 4,
+                "logo_path": "/gz66EfNoYPqHTYI4q9UEN4CbHRc.png",
+                "name": "Paramount",
+                "origin_country": "US"
+            },
+            {
+                "id": 57031,
+                "logo_path": "/1ai3zndjxL3BonlOJVS75GjTOuW.png",
+                "name": "Allspark Pictures",
+                "origin_country": "US"
+            },
+            {
+                "id": 24049,
+                "logo_path": "/zOHQ0A3PpNoLLeAxRZwSqNV3nPr.png",
+                "name": "Sierra/Affinity",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2023-03-23",
+        "revenue": 130460213,
+        "runtime": 134,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "english_name": "Italian",
+                "iso_639_1": "it",
+                "name": "Italiano"
+            }
+        ],
+        "status": "Released",
+        "tagline": "No experience necessary.",
+        "title": "Dungeons & Dragons: Honor Among Thieves",
+        "video": false,
+        "vote_average": 7.445,
+        "vote_count": 366
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ceYZCBfwbBwSpGJ6PapNVw5jqLG.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 16,
+                "name": "Animation"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 12,
+                "name": "Adventure"
+            },
+            {
+                "id": 14,
+                "name": "Fantasy"
+            }
+        ],
+        "homepage": "https://www.suzume-movie.com",
+        "id": 916224,
+        "imdb_id": "tt16428256",
+        "original_language": "ja",
+        "original_title": "すずめの戸締まり",
+        "overview": "Suzume, 17, lost her mother as a little girl. On her way to school, she meets a mysterious young man. But her curiosity unleashes a calamity that endangers the entire population of Japan, and so Suzume embarks on a journey to set things right.",
+        "popularity": 333.193,
+        "poster_path": "/vIeu8WysZrTSFb2uhPViKjX9EcC.jpg",
+        "production_companies": [
+            {
+                "id": 3756,
+                "logo_path": "/t38uPdbKmyBB8brKKeTFWIwojRz.png",
+                "name": "CoMix Wave Films",
+                "origin_country": "JP"
+            },
+            {
+                "id": 128616,
+                "logo_path": "/cjmwexOzetWZa8QKy447NMrM6MG.png",
+                "name": "Story",
+                "origin_country": "JP"
+            },
+            {
+                "id": 104184,
+                "logo_path": null,
+                "name": "Lawson Entertainment",
+                "origin_country": "JP"
+            },
+            {
+                "id": 8157,
+                "logo_path": "/yHOC2PPmj6j2zzRqwdufCZauFxI.png",
+                "name": "East Japan Marketing & Communications",
+                "origin_country": "JP"
+            },
+            {
+                "id": 128617,
+                "logo_path": null,
+                "name": "voque ting",
+                "origin_country": "JP"
+            },
+            {
+                "id": 2073,
+                "logo_path": "/6FlTZGliYTN2HaS9Qq6tCdZItWc.png",
+                "name": "KADOKAWA",
+                "origin_country": "JP"
+            },
+            {
+                "id": 2883,
+                "logo_path": "/rDYExnBV61jGQnkhVVrPN4Yl7O1.png",
+                "name": "Aniplex",
+                "origin_country": "JP"
+            },
+            {
+                "id": 882,
+                "logo_path": "/iDw9Xxok1d9WAM2zFicI8p3khTH.png",
+                "name": "TOHO",
+                "origin_country": "JP"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "release_date": "2022-11-11",
+        "revenue": 221100000,
+        "runtime": 122,
+        "spoken_languages": [
+            {
+                "english_name": "Japanese",
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "status": "Released",
+        "tagline": "On the other side of the door, was time in its entirety.",
+        "title": "Suzume",
+        "video": false,
+        "vote_average": 8.153,
+        "vote_count": 85
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cdOQk4GP5ch5e1HHATFG3NXouPL.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 10749,
+                "name": "Romance"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 35,
+                "name": "Comedy"
+            }
+        ],
+        "homepage": "",
+        "id": 1016121,
+        "imdb_id": "tt15765694",
+        "original_language": "en",
+        "original_title": "Beautiful Disaster",
+        "overview": "Bad-boy Travis is exactly what college freshman Abby needs and wants to avoid. He spends his nights fighting in underground boxing matches, and his days as the ultimate college campus charmer. But Abby wants nothing to do with Travis. Intrigued by Abby’s resistance, Travis offers her a simple bet: if he loses his next fight, he must remain sex-free for a month. If he wins, Abby must live in his apartment for the same amount of time. Either way, Travis has no idea that Abby’s dark past is about to emerge, and he may have finally met his match.",
+        "popularity": 285.027,
+        "poster_path": "/aQs2JO5fBfWBqy3cRAJYmgmRSCe.jpg",
+        "production_companies": [
+            {
+                "id": 6626,
+                "logo_path": "/A1BnMoWjzjOrjzpWimyBQkf84mS.png",
+                "name": "Voltage Pictures",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2023-04-04",
+        "revenue": 0,
+        "runtime": 96,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Beautiful Disaster",
+        "video": false,
+        "vote_average": 5.95,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/94TIUEhuwv8PhdIADEvSuwPljS5.jpg",
+        "belongs_to_collection": null,
+        "budget": 6200000,
+        "genres": [
+            {
+                "id": 10752,
+                "name": "War"
+            },
+            {
+                "id": 28,
+                "name": "Action"
+            }
+        ],
+        "homepage": "",
+        "id": 840326,
+        "imdb_id": "tt14846026",
+        "original_language": "fi",
+        "original_title": "Sisu",
+        "overview": "Deep in the wilderness of Lapland, Aatami Korpi is searching for gold but after he stumbles upon Nazi patrol, a breathtaking and gold-hungry chase through the destroyed and mined Lapland wilderness begins.",
+        "popularity": 253.534,
+        "poster_path": "/dHx5yuBb05U9vNaNhIBD7jWyxPk.jpg",
+        "production_companies": [
+            {
+                "id": 62408,
+                "logo_path": null,
+                "name": "Subzero Film Entertainment",
+                "origin_country": "FI"
+            },
+            {
+                "id": 182028,
+                "logo_path": "/mTsDayzbpU8eXyO99NfBOXP6C2U.png",
+                "name": "Good Chaos",
+                "origin_country": "GB"
+            },
+            {
+                "id": 11341,
+                "logo_path": "/xytTBODEy3p20ksHL4Ftxr483Iv.png",
+                "name": "Stage 6 Films",
+                "origin_country": "US"
+            },
+            {
+                "id": 1632,
+                "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+                "name": "Lionsgate",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FI",
+                "name": "Finland"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2023-01-27",
+        "revenue": 0,
+        "runtime": 91,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "english_name": "Finnish",
+                "iso_639_1": "fi",
+                "name": "suomi"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Vengeance is golden.",
+        "title": "Sisu",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sxQuWAUnyZCSJnjXhcGrCP6ASUy.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 27,
+                "name": "Horror"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            }
+        ],
+        "homepage": "",
+        "id": 931954,
+        "imdb_id": "tt15676664",
+        "original_language": "es",
+        "original_title": "Venus",
+        "overview": "Lucía, a club dancer on the run, takes refuge in a sinister building on the outskirts of Madrid where her sister Rocío lives with her daughter Alba.",
+        "popularity": 188.909,
+        "poster_path": "/yGpJbft7JQpQHHHasRr4wWdVcuJ.jpg",
+        "production_companies": [
+            {
+                "id": 32485,
+                "logo_path": null,
+                "name": "Pokeepsie Films",
+                "origin_country": "ES"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "ES",
+                "name": "Spain"
+            }
+        ],
+        "release_date": "2022-12-02",
+        "revenue": 0,
+        "runtime": 101,
+        "spoken_languages": [
+            {
+                "english_name": "Spanish",
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Venus",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 77
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/l2VqHMBEwAYZh6DeAZSlOzAXw7N.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 35,
+                "name": "Comedy"
+            }
+        ],
+        "homepage": "https://www.focusfeatures.com/champions",
+        "id": 933419,
+        "imdb_id": "tt15339570",
+        "original_language": "en",
+        "original_title": "Champions",
+        "overview": "A stubborn and hotheaded minor league basketball coach is forced to train a Special Olympics team when he is sentenced to community service.",
+        "popularity": 178.069,
+        "poster_path": "/yVgtsoXyTZBww7SWE4JE1U4Wcel.jpg",
+        "production_companies": [
+            {
+                "id": 12026,
+                "logo_path": "/l1Y8SRH3EaElU2niZQLT3I8tOFp.png",
+                "name": "Gold Circle Films",
+                "origin_country": "US"
+            },
+            {
+                "id": 10146,
+                "logo_path": "/xnFIOeq5cKw09kCWqV7foWDe4AA.png",
+                "name": "Focus Features",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2023-03-09",
+        "revenue": 9263009,
+        "runtime": 124,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Every dream team starts somewhere.",
+        "title": "Champions",
+        "video": false,
+        "vote_average": 7.082,
+        "vote_count": 79
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cAnpkBOnPQv4MYyXbQRVGsWSnxX.jpg",
+        "belongs_to_collection": null,
+        "budget": 2400000,
+        "genres": [
+            {
+                "id": 53,
+                "name": "Thriller"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 27,
+                "name": "Horror"
+            }
+        ],
+        "homepage": "https://morenafilms.com/portfolio/cerdita/",
+        "id": 848058,
+        "imdb_id": "tt10399608",
+        "original_language": "es",
+        "original_title": "Cerdita",
+        "overview": "A bullied overweight teenager sees a glimpse of hope when her tormentors are brutally abducted by a mesmerizing stranger.",
+        "popularity": 168.885,
+        "poster_path": "/pIFeu5gF7ofAxI9NqrWbJAjjKn6.jpg",
+        "production_companies": [
+            {
+                "id": 10031,
+                "logo_path": "/cUOviFxM9l3dYuNeg89giHUaqkd.png",
+                "name": "Morena Films",
+                "origin_country": "ES"
+            },
+            {
+                "id": 5381,
+                "logo_path": "/m6vSpFeYtFoW1lNv5mpLHzH4eLL.png",
+                "name": "Backup Media",
+                "origin_country": "FR"
+            },
+            {
+                "id": 156831,
+                "logo_path": null,
+                "name": "Cerdita AIE",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "ES",
+                "name": "Spain"
+            }
+        ],
+        "release_date": "2022-10-07",
+        "revenue": 380512,
+        "runtime": 100,
+        "spoken_languages": [
+            {
+                "english_name": "Spanish",
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Adolescence can be brutal.",
+        "title": "Piggy",
+        "video": false,
+        "vote_average": 6.623,
+        "vote_count": 316
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vnqXFLbdsARcqjUb70wkxei0oX9.jpg",
+        "belongs_to_collection": null,
+        "budget": 86200000,
+        "genres": [
+            {
+                "id": 35,
+                "name": "Comedy"
+            },
+            {
+                "id": 27,
+                "name": "Horror"
+            },
+            {
+                "id": 14,
+                "name": "Fantasy"
+            }
+        ],
+        "homepage": "https://www.renfieldmovie.com",
+        "id": 649609,
+        "imdb_id": "tt11358390",
+        "original_language": "en",
+        "original_title": "Renfield",
+        "overview": "Having grown sick and tired of his centuries as Dracula's lackey, Renfield finds a new lease on life — and maybe even redemption — when he falls for feisty, perennially angry traffic cop Rebecca Quincy.",
+        "popularity": 166.439,
+        "poster_path": "/p6yUjhvNGQpFZilKwOKbxQ1eHlo.jpg",
+        "production_companies": [
+            {
+                "id": 50032,
+                "logo_path": "/ojrMksdtR7Bs2vwERU1LCrjv7vx.png",
+                "name": "Skybound Entertainment",
+                "origin_country": "US"
+            },
+            {
+                "id": 33,
+                "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+                "name": "Universal Pictures",
+                "origin_country": "US"
+            },
+            {
+                "id": 197279,
+                "logo_path": null,
+                "name": "Giant Wildcat",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2023-04-07",
+        "revenue": 0,
+        "runtime": 93,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Sucks to be him.",
+        "title": "Renfield",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 17
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/q3IK7KJPdfl8AeJnBvB1AQbIhBM.jpg",
+        "belongs_to_collection": {
+            "id": 284433,
+            "name": "Guardians of the Galaxy Collection",
+            "poster_path": "/iL8mukexAqEg0xK783rG561tdd8.jpg",
+            "backdrop_path": "/jdyyjulTBU8YUYAUvQFj6U1g2Pj.jpg"
+        },
+        "budget": 250000000,
+        "genres": [
+            {
+                "id": 878,
+                "name": "Science Fiction"
+            },
+            {
+                "id": 12,
+                "name": "Adventure"
+            },
+            {
+                "id": 35,
+                "name": "Comedy"
+            }
+        ],
+        "homepage": "https://www.marvel.com/movies/guardians-of-the-galaxy-volume-3",
+        "id": 447365,
+        "imdb_id": "tt6791350",
+        "original_language": "en",
+        "original_title": "Guardians of the Galaxy Volume 3",
+        "overview": "Peter Quill, still reeling from the loss of Gamora, must rally his team around him to defend the universe along with protecting one of their own. A mission that, if not completed successfully, could quite possibly lead to the end of the Guardians as we know them.",
+        "popularity": 149.854,
+        "poster_path": "/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
+        "production_companies": [
+            {
+                "id": 420,
+                "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+                "name": "Marvel Studios",
+                "origin_country": "US"
+            },
+            {
+                "id": 176762,
+                "logo_path": null,
+                "name": "Kevin Feige Productions",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2023-05-03",
+        "revenue": 0,
+        "runtime": 149,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Post Production",
+        "tagline": "Once more with feeling.",
+        "title": "Guardians of the Galaxy Volume 3",
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rCZNtFhCId7zAMo68xyCEwnRvB.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "https://close.movie/",
+        "id": 901563,
+        "imdb_id": "tt9660502",
+        "original_language": "fr",
+        "original_title": "Close",
+        "overview": "Two thirteen year-olds have always been incredibly close but they drift apart after the intimacy of their relationship is questioned by schoolmates.  An emotionally transformative and unforgettable portrait of the intersection of friendship and love, identity and independence, and heartbreak and healing.",
+        "popularity": 113.098,
+        "poster_path": "/54FGmbm9kJselaFPLRomXDuuCGK.jpg",
+        "production_companies": [
+            {
+                "id": 207,
+                "logo_path": "/uskenzq65wJe0cT0D8StQI3hJnO.png",
+                "name": "Agat Films & Cie / Ex Nihilo",
+                "origin_country": "FR"
+            },
+            {
+                "id": 744,
+                "logo_path": "/iPQvLZPw7e3T3No0akup0F9o8nV.png",
+                "name": "Diaphana Films",
+                "origin_country": "FR"
+            },
+            {
+                "id": 24845,
+                "logo_path": "/eRT3fMGdAaQaFyOYXMEIt8GCe6I.png",
+                "name": "Topkapi Films",
+                "origin_country": "NL"
+            },
+            {
+                "id": 3040,
+                "logo_path": "/25t2aPa5uNerf9Pq5cLUsYhs8ZA.png",
+                "name": "Versus Production",
+                "origin_country": "BE"
+            },
+            {
+                "id": 4232,
+                "logo_path": "/5uY5oqgSEUvzfmn8xC4eqGVU0s5.png",
+                "name": "Menuet",
+                "origin_country": "BE"
+            },
+            {
+                "id": 850,
+                "logo_path": "/aF7qajGJGtMpdrtvssM9g90YanX.png",
+                "name": "Eurimages",
+                "origin_country": "FR"
+            },
+            {
+                "id": 7117,
+                "logo_path": "/mVAjfnm0GI1V6ZHiGjq4HNH9xiA.png",
+                "name": "Les Films Velvet",
+                "origin_country": "FR"
+            },
+            {
+                "id": 3133,
+                "logo_path": null,
+                "name": "VTM",
+                "origin_country": "BE"
+            },
+            {
+                "id": 792,
+                "logo_path": "/cRhBQP1FFNugNxKkO1pUgeD2Rkr.png",
+                "name": "RTBF",
+                "origin_country": "BE"
+            },
+            {
+                "id": 12344,
+                "logo_path": null,
+                "name": "Vlaams Audiovisueel Fonds (VAF)",
+                "origin_country": "BE"
+            },
+            {
+                "id": 4508,
+                "logo_path": "/sUq2S2ndKxp1B2NjbMJbSNlPI8V.png",
+                "name": "Nederlands Fonds voor de Film",
+                "origin_country": "NL"
+            },
+            {
+                "id": 104,
+                "logo_path": "/9aotxauvc9685tq9pTcRJszuT06.png",
+                "name": "Canal+",
+                "origin_country": "FR"
+            },
+            {
+                "id": 10611,
+                "logo_path": "/zQ4fGaEnNkWfSzyygXRcUZwPmDG.png",
+                "name": "Ciné+",
+                "origin_country": "FR"
+            },
+            {
+                "id": 11699,
+                "logo_path": "/83QgqlqE0sqlpyDNfelHdUlkw6E.png",
+                "name": "Sacem",
+                "origin_country": "FR"
+            },
+            {
+                "id": 11796,
+                "logo_path": "/tx6LOQcTSqgW8ffKxovuJHjlYVw.png",
+                "name": "Centre du Cinéma et de l'Audiovisuel de la FWB",
+                "origin_country": "BE"
+            },
+            {
+                "id": 162372,
+                "logo_path": null,
+                "name": "La Culture avec la Copie Privée",
+                "origin_country": ""
+            },
+            {
+                "id": 11924,
+                "logo_path": "/3uGsFGMUjLw52rvEllvs2txnJmn.png",
+                "name": "Casa Kafka Pictures",
+                "origin_country": "BE"
+            },
+            {
+                "id": 78299,
+                "logo_path": "/6oR2zvVsvJzk94rake7LdnFkorQ.png",
+                "name": "Screen Flanders",
+                "origin_country": "BE"
+            },
+            {
+                "id": 11793,
+                "logo_path": null,
+                "name": "Lumière",
+                "origin_country": ""
+            },
+            {
+                "id": 7306,
+                "logo_path": "/iqCkzLmACmrws2tHO2USRLkJqXY.png",
+                "name": "The Match Factory",
+                "origin_country": "DE"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "BE",
+                "name": "Belgium"
+            },
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "NL",
+                "name": "Netherlands"
+            }
+        ],
+        "release_date": "2022-11-01",
+        "revenue": 3129968,
+        "runtime": 104,
+        "spoken_languages": [
+            {
+                "english_name": "Dutch",
+                "iso_639_1": "nl",
+                "name": "Nederlands"
+            },
+            {
+                "english_name": "French",
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Close",
+        "video": false,
+        "vote_average": 7.806,
+        "vote_count": 330
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tFGlVxcj3YuLPtbhLRTOhyIUuzw.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 14,
+                "name": "Fantasy"
+            },
+            {
+                "id": 12,
+                "name": "Adventure"
+            },
+            {
+                "id": 35,
+                "name": "Comedy"
+            }
+        ],
+        "homepage": "https://www.stan.com.au/watch/the-portable-door-2023",
+        "id": 830896,
+        "imdb_id": "tt11820950",
+        "original_language": "en",
+        "original_title": "The Portable Door",
+        "overview": "Paul and Sophie, interns at a mysterious London firm, become steadily aware their employers Humphrey and Dennis are anything but conventional - they are disrupting the world of magic by bringing modern corporate strategy to ancient magical practices.",
+        "popularity": 96.248,
+        "poster_path": "/15XCSwlniUZQOW7vD6tPM5e30wr.jpg",
+        "production_companies": [
+            {
+                "id": 6254,
+                "logo_path": "/dHfP8fUyykmTsMXbtXO0kSsYz5E.png",
+                "name": "The Jim Henson Company",
+                "origin_country": "US"
+            },
+            {
+                "id": 18988,
+                "logo_path": null,
+                "name": "Story Bridge Films",
+                "origin_country": "AU"
+            },
+            {
+                "id": 132437,
+                "logo_path": null,
+                "name": "MEP Capital",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "AU",
+                "name": "Australia"
+            }
+        ],
+        "release_date": "2023-03-23",
+        "revenue": 0,
+        "runtime": 116,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "The Portable Door",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 36
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/69HgAYpbJ04w6lUUVainsYxLabb.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 14,
+                "name": "Fantasy"
+            },
+            {
+                "id": 28,
+                "name": "Action"
+            },
+            {
+                "id": 12,
+                "name": "Adventure"
+            }
+        ],
+        "homepage": "https://kotzmovie.com",
+        "id": 455476,
+        "imdb_id": "tt6528290",
+        "original_language": "en",
+        "original_title": "Knights of the Zodiac",
+        "overview": "When a headstrong street orphan, Seiya, in search of his abducted sister unwittingly taps into hidden powers, he discovers he might be the only person alive who can protect a reincarnated goddess, sent to watch over humanity. Can he let his past go and embrace his destiny to become a Knight of the Zodiac?",
+        "popularity": 86.406,
+        "poster_path": "/ixLxaRJrJZoN3pg6tc2RAsheYmV.jpg",
+        "production_companies": [
+            {
+                "id": 11341,
+                "logo_path": "/xytTBODEy3p20ksHL4Ftxr483Iv.png",
+                "name": "Stage 6 Films",
+                "origin_country": "US"
+            },
+            {
+                "id": 5542,
+                "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+                "name": "Toei Animation",
+                "origin_country": "JP"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2023-04-27",
+        "revenue": 0,
+        "runtime": 0,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Post Production",
+        "tagline": "Go beyond your destiny.",
+        "title": "Knights of the Zodiac",
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/a6OX0pzbcPHstcNPK3FSJGq8Sxp.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 16,
+                "name": "Animation"
+            },
+            {
+                "id": 14,
+                "name": "Fantasy"
+            },
+            {
+                "id": 12,
+                "name": "Adventure"
+            }
+        ],
+        "homepage": "",
+        "id": 955644,
+        "imdb_id": "tt5790684",
+        "original_language": "en",
+        "original_title": "Mia and Me: The Hero of Centopia",
+        "overview": "Mia discovers her magic stone is part of an ancient prophecy and embarks on a thrilling journey to the farthest islands of Centopia to face a great evil, and shape her own destiny.",
+        "popularity": 76.916,
+        "poster_path": "/a3ZpDsvNCQUOD7ApAs9y3mFwVU4.jpg",
+        "production_companies": [
+            {
+                "id": 68112,
+                "logo_path": "/tyKz3ju6yod8fza47LH22bLpGSs.png",
+                "name": "Studio 100 Media",
+                "origin_country": "DE"
+            },
+            {
+                "id": 25894,
+                "logo_path": "/sqfAZ2i3iyLUrWFknRrD0dfc7iw.png",
+                "name": "Studio 100",
+                "origin_country": "BE"
+            },
+            {
+                "id": 104638,
+                "logo_path": null,
+                "name": "Studio B Animation",
+                "origin_country": ""
+            },
+            {
+                "id": 47,
+                "logo_path": "/i7Z9ot2o3N5Sa3HrF09kniFs2y8.png",
+                "name": "Constantin Film",
+                "origin_country": "DE"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "AU",
+                "name": "Australia"
+            },
+            {
+                "iso_3166_1": "BE",
+                "name": "Belgium"
+            },
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            },
+            {
+                "iso_3166_1": "IN",
+                "name": "India"
+            }
+        ],
+        "release_date": "2022-05-26",
+        "revenue": 0,
+        "runtime": 82,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Mia and Me: The Hero of Centopia",
+        "video": false,
+        "vote_average": 7.113,
+        "vote_count": 53
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uKTkiw3w3LfdzgiPOvu0C19Voi3.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 16,
+                "name": "Animation"
+            },
+            {
+                "id": 28,
+                "name": "Action"
+            },
+            {
+                "id": 80,
+                "name": "Crime"
+            },
+            {
+                "id": 9648,
+                "name": "Mystery"
+            }
+        ],
+        "homepage": "https://www.conan-movie.jp/",
+        "id": 1047041,
+        "imdb_id": "tt27521477",
+        "original_language": "ja",
+        "original_title": "名探偵コナン 黒鉄の魚影（サブマリン）",
+        "overview": "The 26th movie entry in the “Detective Conan” franchise.",
+        "popularity": 73.613,
+        "poster_path": "/80pDEdU0f7F0O1vSTky5VYxJL14.jpg",
+        "production_companies": [
+            {
+                "id": 7164,
+                "logo_path": "/vHsaqTkQ2ZTbdqrCA272YahoVlg.png",
+                "name": "TMS Entertainment",
+                "origin_country": "JP"
+            },
+            {
+                "id": 9149,
+                "logo_path": "/isLUpud9N56ifftJZ4XvzwBBpoG.png",
+                "name": "Shogakukan",
+                "origin_country": "JP"
+            },
+            {
+                "id": 11727,
+                "logo_path": "/cIMyE9cw1W4kMFGxmC17HKTnVz9.png",
+                "name": "Yomiuri Telecasting Corporation",
+                "origin_country": "JP"
+            },
+            {
+                "id": 6755,
+                "logo_path": "/c0ENH8QeZLvCACpzCpwvYMy2SDr.png",
+                "name": "Nippon Television Network Corporation",
+                "origin_country": "JP"
+            },
+            {
+                "id": 12655,
+                "logo_path": "/dfGqf2NoMVPrDywDL90D5HAhBlW.png",
+                "name": "Shogakukan-Shueisha Productions",
+                "origin_country": "JP"
+            },
+            {
+                "id": 882,
+                "logo_path": "/iDw9Xxok1d9WAM2zFicI8p3khTH.png",
+                "name": "TOHO",
+                "origin_country": "JP"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "JP",
+                "name": "Japan"
+            }
+        ],
+        "release_date": "2023-04-14",
+        "revenue": 0,
+        "runtime": 0,
+        "spoken_languages": [
+            {
+                "english_name": "Japanese",
+                "iso_639_1": "ja",
+                "name": "日本語"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Detective Conan: Black Iron Submarine",
+        "video": false,
+        "vote_average": 6.125,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dxgkq6ZzFGPvQOGPUbBWXzp9vzm.jpg",
+        "belongs_to_collection": {
+            "id": 913258,
+            "name": "The Three Musketeers Collection",
+            "poster_path": "/qKgZ5e83JjeAyJ2Y2okl0g9YSBH.jpg",
+            "backdrop_path": null
+        },
+        "budget": 27500000,
+        "genres": [
+            {
+                "id": 12,
+                "name": "Adventure"
+            },
+            {
+                "id": 36,
+                "name": "History"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "https://www.pathefilms.com/film/lestroismousquetaires-dartagnan",
+        "id": 796185,
+        "imdb_id": "tt12672536",
+        "original_language": "fr",
+        "original_title": "Les Trois Mousquetaires: D'Artagnan",
+        "overview": "D'Artagnan, a spirited young Gascon, is left for dead after trying to save a noblewoman from being kidnapped. Once in Paris, he tries by all means to find his attackers, unaware that his quest will lead him to the very heart of a war where the future of France is at stake. Aided by King's Musketeers Athos, Porthos and Aramis, he faces the machinations of villainous Cardinal Richelieu and Milady de Winter, while falling in love with Constance, the Queen's confidante.",
+        "popularity": 67.616,
+        "poster_path": "/hfExJPcbBtDeFDEb7I1By72Drlr.jpg",
+        "production_companies": [
+            {
+                "id": 7981,
+                "logo_path": "/6Yv1gIAuGkHS5Vis4UjnqHhCPWV.png",
+                "name": "Pathé",
+                "origin_country": "FR"
+            },
+            {
+                "id": 20339,
+                "logo_path": null,
+                "name": "Chapter 2",
+                "origin_country": "FR"
+            },
+            {
+                "id": 1115,
+                "logo_path": "/ntH7T5gsN6wtyrfHGHJDTuneQ7o.png",
+                "name": "M6 Films",
+                "origin_country": "FR"
+            },
+            {
+                "id": 123175,
+                "logo_path": "/sexBzUUok6HAuTc3cg8eRc84TKX.png",
+                "name": "DeAPlaneta",
+                "origin_country": "ES"
+            },
+            {
+                "id": 47,
+                "logo_path": "/i7Z9ot2o3N5Sa3HrF09kniFs2y8.png",
+                "name": "Constantin Film",
+                "origin_country": "DE"
+            },
+            {
+                "id": 4606,
+                "logo_path": "/otZHbf1HmzLRQsZFSqJXkf8EHz7.png",
+                "name": "ZDF",
+                "origin_country": "DE"
+            },
+            {
+                "id": 19037,
+                "logo_path": "/tceh2aAORA5JxIZSLQ1GkzTBZDL.png",
+                "name": "uMedia",
+                "origin_country": "BE"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "BE",
+                "name": "Belgium"
+            },
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            },
+            {
+                "iso_3166_1": "ES",
+                "name": "Spain"
+            }
+        ],
+        "release_date": "2023-04-05",
+        "revenue": 0,
+        "runtime": 121,
+        "spoken_languages": [
+            {
+                "english_name": "French",
+                "iso_639_1": "fr",
+                "name": "Français"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "The Three Musketeers: D'Artagnan",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 156
+    }
+]

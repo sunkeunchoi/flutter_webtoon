@@ -1,0 +1,405 @@
+{
+    "dates": {
+        "maximum": "2023-05-08",
+        "minimum": "2023-04-21"
+    },
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg",
+            "genre_ids": [
+                16,
+                12,
+                10751,
+                14,
+                35
+            ],
+            "id": 502356,
+            "original_language": "en",
+            "original_title": "The Super Mario Bros. Movie",
+            "overview": "While working underground to fix a water main, Brooklyn plumbersâ€”and brothersâ€”Mario and Luigi are transported down a mysterious pipe and wander into a magical new world. But when the brothers are separated, Mario embarks on an epic quest to find Luigi.",
+            "popularity": 9032.947,
+            "poster_path": "/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
+            "release_date": "2023-04-05",
+            "title": "The Super Mario Bros. Movie",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 756
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/a2tys4sD7xzVaogPntGsT1ypVoT.jpg",
+            "genre_ids": [
+                53,
+                35,
+                80
+            ],
+            "id": 804150,
+            "original_language": "en",
+            "original_title": "Cocaine Bear",
+            "overview": "Inspired by a true story, an oddball group of cops, criminals, tourists and teens converge in a Georgia forest where a 500-pound black bear goes on a murderous rampage after unintentionally ingesting cocaine.",
+            "popularity": 1531.049,
+            "poster_path": "/gOnmaxHo0412UVr1QM5Nekv1xPi.jpg",
+            "release_date": "2023-02-22",
+            "title": "Cocaine Bear",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 750
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5Y5pz0NX7SZS9036I733F7uNcwK.jpg",
+            "genre_ids": [
+                27,
+                9648
+            ],
+            "id": 758323,
+            "original_language": "en",
+            "original_title": "The Pope's Exorcist",
+            "overview": "Father Gabriele Amorth, Chief Exorcist of the Vatican, investigates a young boy's terrifying possession and ends up uncovering a centuries-old conspiracy the Vatican has desperately tried to keep hidden.",
+            "popularity": 1656.818,
+            "poster_path": "/9JBEPLTPSm0d1mbEcLxULjJq9Eh.jpg",
+            "release_date": "2023-04-05",
+            "title": "The Pope's Exorcist",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 55
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vppGIY6C0OJiWyc8z2oxTrlp3vd.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 713704,
+            "original_language": "en",
+            "original_title": "Evil Dead Rise",
+            "overview": "Two sisters find an ancient book that gives birth to bloodthirsty demons that run amok in a Los Angeles apartment building and thrusts them into a primal battle for survival as they face the most nightmarish version of family imaginable.",
+            "popularity": 464.626,
+            "poster_path": "/5ik4ATKmNtmJU6AYD0bLm56BCVM.jpg",
+            "release_date": "2023-04-12",
+            "title": "Evil Dead Rise",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 11
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/r7Dfg9aRZ78gJsmDlCirIIlNH3d.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 785084,
+            "original_language": "en",
+            "original_title": "The Whale",
+            "overview": "A reclusive English teacher suffering from severe obesity attempts to reconnect with his estranged teenage daughter for one last chance at redemption.",
+            "popularity": 345.029,
+            "poster_path": "/jQ0gylJMxWSL490sy0RrPj1Lj7e.jpg",
+            "release_date": "2022-12-09",
+            "title": "The Whale",
+            "video": false,
+            "vote_average": 8.1,
+            "vote_count": 1971
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2rVkDZFLN6DI5PAoraoe9m4IRMN.jpg",
+            "genre_ids": [
+                12,
+                14,
+                35
+            ],
+            "id": 493529,
+            "original_language": "en",
+            "original_title": "Dungeons & Dragons: Honor Among Thieves",
+            "overview": "A charming thief and a band of unlikely adventurers undertake an epic heist to retrieve a lost relic, but things go dangerously awry when they run afoul of the wrong people.",
+            "popularity": 338.155,
+            "poster_path": "/A7AoNT06aRAc4SV89Dwxj3EYAgC.jpg",
+            "release_date": "2023-03-23",
+            "title": "Dungeons & Dragons: Honor Among Thieves",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 355
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ceYZCBfwbBwSpGJ6PapNVw5jqLG.jpg",
+            "genre_ids": [
+                16,
+                18,
+                12,
+                14
+            ],
+            "id": 916224,
+            "original_language": "ja",
+            "original_title": "ã™ãšã‚ã®æˆ¸ç· ã¾ã‚Š",
+            "overview": "Suzume, 17, lost her mother as a little girl. On her way to school, she meets a mysterious young man. But her curiosity unleashes a calamity that endangers the entire population of Japan, and so Suzume embarks on a journey to set things right.",
+            "popularity": 333.193,
+            "poster_path": "/vIeu8WysZrTSFb2uhPViKjX9EcC.jpg",
+            "release_date": "2022-11-11",
+            "title": "Suzume",
+            "video": false,
+            "vote_average": 8.2,
+            "vote_count": 83
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/94TIUEhuwv8PhdIADEvSuwPljS5.jpg",
+            "genre_ids": [
+                10752,
+                28
+            ],
+            "id": 840326,
+            "original_language": "fi",
+            "original_title": "Sisu",
+            "overview": "Deep in the wilderness of Lapland, Aatami Korpi is searching for gold but after he stumbles upon Nazi patrol, a breathtaking and gold-hungry chase through the destroyed and mined Lapland wilderness begins.",
+            "popularity": 253.534,
+            "poster_path": "/dHx5yuBb05U9vNaNhIBD7jWyxPk.jpg",
+            "release_date": "2023-01-27",
+            "title": "Sisu",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 13
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sxQuWAUnyZCSJnjXhcGrCP6ASUy.jpg",
+            "genre_ids": [
+                18,
+                27,
+                53
+            ],
+            "id": 931954,
+            "original_language": "es",
+            "original_title": "Venus",
+            "overview": "LucÃ­a, a club dancer on the run, takes refuge in a sinister building on the outskirts of Madrid where her sister RocÃ­o lives with her daughter Alba.",
+            "popularity": 188.909,
+            "poster_path": "/vyQmDx5CF8x9T6WKCLuoFotGpjf.jpg",
+            "release_date": "2022-12-02",
+            "title": "Venus",
+            "video": false,
+            "vote_average": 5.6,
+            "vote_count": 77
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2ZpwPckspTSY9sVEkjEyatgBWT7.jpg",
+            "genre_ids": [
+                53,
+                18,
+                27
+            ],
+            "id": 848058,
+            "original_language": "es",
+            "original_title": "Cerdita",
+            "overview": "A bullied overweight teenager sees a glimpse of hope when her tormentors are brutally abducted by a mesmerizing stranger.",
+            "popularity": 168.885,
+            "poster_path": "/pIFeu5gF7ofAxI9NqrWbJAjjKn6.jpg",
+            "release_date": "2022-10-07",
+            "title": "Piggy",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 316
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/l2VqHMBEwAYZh6DeAZSlOzAXw7N.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 933419,
+            "original_language": "en",
+            "original_title": "Champions",
+            "overview": "A stubborn and hotheaded minor league basketball coach is forced to train a Special Olympics team when he is sentenced to community service.",
+            "popularity": 178.069,
+            "poster_path": "/yVgtsoXyTZBww7SWE4JE1U4Wcel.jpg",
+            "release_date": "2023-03-09",
+            "title": "Champions",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 77
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/k1UFqRnaJN14DP6arJ0sNnZ8PzE.jpg",
+            "genre_ids": [
+                35,
+                27,
+                14
+            ],
+            "id": 649609,
+            "original_language": "en",
+            "original_title": "Renfield",
+            "overview": "Having grown sick and tired of his centuries as Dracula's lackey, Renfield finds a new lease on life â€” and maybe even redemption â€” when he falls for feisty, perennially angry traffic cop Rebecca Quincy.",
+            "popularity": 166.439,
+            "poster_path": "/p6yUjhvNGQpFZilKwOKbxQ1eHlo.jpg",
+            "release_date": "2023-04-07",
+            "title": "Renfield",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 11
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7TUp4uKIaX9c2TAZLPwjty5A0EP.jpg",
+            "genre_ids": [
+                878,
+                12,
+                35
+            ],
+            "id": 447365,
+            "original_language": "en",
+            "original_title": "Guardians of the Galaxy Volume 3",
+            "overview": "Peter Quill, still reeling from the loss of Gamora, must rally his team around him to defend the universe along with protecting one of their own. A mission that, if not completed successfully, could quite possibly lead to the end of the Guardians as we know them.",
+            "popularity": 149.854,
+            "poster_path": "/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
+            "release_date": "2023-05-03",
+            "title": "Guardians of the Galaxy Volume 3",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cdOQk4GP5ch5e1HHATFG3NXouPL.jpg",
+            "genre_ids": [
+                10749,
+                18,
+                35
+            ],
+            "id": 1016121,
+            "original_language": "en",
+            "original_title": "Beautiful Disaster",
+            "overview": "Bad-boy Travis is exactly what college freshman Abby needs and wants to avoid. He spends his nights fighting in underground boxing matches, and his days as the ultimate college campus charmer. But Abby wants nothing to do with Travis. Intrigued by Abbyâ€™s resistance, Travis offers her a simple bet: if he loses his next fight, he must remain sex-free for a month. If he wins, Abby must live in his apartment for the same amount of time. Either way, Travis has no idea that Abbyâ€™s dark past is about to emerge, and he may have finally met his match.",
+            "popularity": 285.027,
+            "poster_path": "/aQs2JO5fBfWBqy3cRAJYmgmRSCe.jpg",
+            "release_date": "2023-04-04",
+            "title": "Beautiful Disaster",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 10
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tFGlVxcj3YuLPtbhLRTOhyIUuzw.jpg",
+            "genre_ids": [
+                14,
+                12,
+                35
+            ],
+            "id": 830896,
+            "original_language": "en",
+            "original_title": "The Portable Door",
+            "overview": "Paul and Sophie, interns at a mysterious London firm, become steadily aware their employers Humphrey and Dennis are anything but conventional - they are disrupting the world of magic by bringing modern corporate strategy to ancient magical practices.",
+            "popularity": 96.248,
+            "poster_path": "/15XCSwlniUZQOW7vD6tPM5e30wr.jpg",
+            "release_date": "2023-03-23",
+            "title": "The Portable Door",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 34
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rCZNtFhCId7zAMo68xyCEwnRvB.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 901563,
+            "original_language": "fr",
+            "original_title": "Close",
+            "overview": "Two thirteen year-olds have always been incredibly close but they drift apart after the intimacy of their relationship is questioned by schoolmates.  An emotionally transformative and unforgettable portrait of the intersection of friendship and love, identity and independence, and heartbreak and healing.",
+            "popularity": 113.098,
+            "poster_path": "/54FGmbm9kJselaFPLRomXDuuCGK.jpg",
+            "release_date": "2022-11-01",
+            "title": "Close",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 330
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1hwXjae7SrpbZ4VvIQObuZ8fBul.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                9648
+            ],
+            "id": 715742,
+            "original_language": "es",
+            "original_title": "Trenque Lauquen",
+            "overview": "With the strange disappearance of Laura, two colleagues, her older boyfriend, Rafael, and Ezequiel, learn of their recent discoveries, which may help them locate her. However, the story is bigger and stranger than they could imagine.",
+            "popularity": 35.892,
+            "poster_path": "/9L0gzTFcyN1b5Qa1J29pBhhELIZ.jpg",
+            "release_date": "2023-05-03",
+            "title": "Trenque Lauquen",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/a6OX0pzbcPHstcNPK3FSJGq8Sxp.jpg",
+            "genre_ids": [
+                16,
+                14,
+                12
+            ],
+            "id": 955644,
+            "original_language": "en",
+            "original_title": "Mia and Me: The Hero of Centopia",
+            "overview": "Mia discovers her magic stone is part of an ancient prophecy and embarks on a thrilling journey to the farthest islands of Centopia to face a great evil, and shape her own destiny.",
+            "popularity": 76.916,
+            "poster_path": "/a3ZpDsvNCQUOD7ApAs9y3mFwVU4.jpg",
+            "release_date": "2022-05-26",
+            "title": "Mia and Me: The Hero of Centopia",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 53
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2XzuzOuuwoyynm9vu6yOQrhfM36.jpg",
+            "genre_ids": [
+                35,
+                12,
+                14
+            ],
+            "id": 798286,
+            "original_language": "en",
+            "original_title": "Beau Is Afraid",
+            "overview": "A paranoid man embarks on an epic odyssey to get home to his mother.",
+            "popularity": 66.376,
+            "poster_path": "/wgVkkjigF31r1nZV80uV0xNIoun.jpg",
+            "release_date": "2023-04-14",
+            "title": "Beau Is Afraid",
+            "video": false,
+            "vote_average": 2,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5CrqsVDEukfvTUxmPWe1I32PS9K.jpg",
+            "genre_ids": [
+                53,
+                9648,
+                18
+            ],
+            "id": 850028,
+            "original_language": "en",
+            "original_title": "Alice, Darling",
+            "overview": "A young woman trapped in an abusive relationship becomes an unwitting participant in an intervention staged by her two closest friends.",
+            "popularity": 41.963,
+            "poster_path": "/ybqS7I4tuMs1TIssvuLMk2lYlLe.jpg",
+            "release_date": "2022-12-30",
+            "title": "Alice, Darling",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 67
+        }
+    ],
+    "total_pages": 20,
+    "total_results": 383
+}
